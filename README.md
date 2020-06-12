@@ -19,10 +19,6 @@ This program randomly generates a strong password that provides greater security
 
 ## Where to find
 
-You are required to submit the following for review:
-
 * URL: https://civ187.github.io/Password-Generator/
 
 * GitHub repository: https://github.com/civ187/Password-Generator
-
-
